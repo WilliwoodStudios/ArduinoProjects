@@ -1,6 +1,6 @@
 Firmware files are from here:
 * https://github.com/arduino/ArduinoCore-avr/tree/master/firmwares/atmegaxxu2
-* https://github.com/coopermaa/USBKeyboard/tree/master/firmware
+* https://github.com/coopermaa/USBKeyboard
 * https://github.com/trusktr/arduino-lufa-keyboard
 
 
